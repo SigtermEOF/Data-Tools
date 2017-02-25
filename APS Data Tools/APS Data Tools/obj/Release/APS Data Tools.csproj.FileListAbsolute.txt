@@ -1,0 +1,8 @@
+R:\jl projects\APS Data Tools\APS Data Tools\bin\Release\APS Data Tools.exe.config
+R:\jl projects\APS Data Tools\APS Data Tools\bin\Release\APS Data Tools.exe
+R:\jl projects\APS Data Tools\APS Data Tools\bin\Release\APS Data Tools.pdb
+R:\jl projects\APS Data Tools\APS Data Tools\obj\Release\APS_Data_Tools.Form1.resources
+R:\jl projects\APS Data Tools\APS Data Tools\obj\Release\APS_Data_Tools.Properties.Resources.resources
+R:\jl projects\APS Data Tools\APS Data Tools\obj\Release\APS Data Tools.csproj.GenerateResource.Cache
+R:\jl projects\APS Data Tools\APS Data Tools\obj\Release\APS Data Tools.exe
+R:\jl projects\APS Data Tools\APS Data Tools\obj\Release\APS Data Tools.pdb
